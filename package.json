@@ -39,7 +39,7 @@
     "core-js": "^2.4.1",
     "inputmask": "^4.0.4",
     "jquery": "^3.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.25",
     "mydatepicker": "^2.6.6",
     "mydatepicker-th": "^0.1.1",
